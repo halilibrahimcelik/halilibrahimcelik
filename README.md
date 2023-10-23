@@ -12,5 +12,5 @@ I'm Halil from Turkey, I am a front-end developer and I do focus on JavaScript a
 
 
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/halil-ibrahim-celik)   
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='20' height='20'>](https://www.linkedin.com/in/halil-ibrahim-celik)   
 
