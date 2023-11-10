@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm İbrahim</h1>
+<h1 align="left">Hi 👋 I'm İbrahim,</h1>
 
 ![Front-End Development](https://github.com/halilibrahimcelik/halilibrahimcelik/blob/main/banner.jpg)
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React,SASS and Web Development**
+- 💬 Ask me about **React.js and web development**
 
 - 📫 How to reach me **hibrahim.celik@yahoo.com**
 
