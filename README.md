@@ -2,14 +2,14 @@
 
 ![Front-End Development](https://github.com/halilibrahimcelik/halilibrahimcelik/blob/main/banner.jpg)
 
-<h3 align="center">I specialize in web software development, mobile-responsive design, and crafting intuitive UIs. My main expertise includes CSS, SASS, JavaScript/TypeScript, and React.
+<h3 align="center">I specialize in web software development, mobile-responsive design, and crafting intuitive UIs. My main expertise includes  JavaScript/TypeScript, Next.js and React.
 <br/>	
 <br/>
  I enjoy the process of continuous learning and am enthusiastic about exploring new languages and frameworks that align with my priorities.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently focusing on **React Native**
 
-- 💬 Ask me about **React.js and web development**
+- 💬 Ask me about **web development  and frontend**
 
 - 📫 How to reach me **hibrahim.celik@yahoo.com**
 
@@ -22,9 +22,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-|JavaScript| Tailwind|SASS |Bootstrap  | React | TypeScript | Next.js | Redux | Graphql| Postman| Firebase |Chart.js |Framer|Figma|Jest|
-|-------------|------------| -------- | -------------|---------|--------|--------|----------|-------|------|-------|-------|-----|------|-----|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> |    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>|    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>|   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>|
+|JavaScript| Tailwind|SASS |Bootstrap  | React | React Native | TypeScript | Next.js | Redux | Graphql| Postman| Firebase |Chart.js |Framer|Figma|Jest|
+|-------------|------------| -------- | -------------|---------|----------|--------|--------|----------|-------|------|-------|-------|-----|------|-----|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> |    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>|    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>|   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>|   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>|
 
 
 |Used Languages|General Stats|Streaks|
