@@ -7,7 +7,7 @@
 <br/>
  I enjoy the process of continuous learning and am enthusiastic about exploring new languages and frameworks that align with my priorities.</h3>
 
-- 🌱 I’m currently focusing on **React Native**
+- 🌱 currently focussed on **React Native**
 
 - 💬 Ask me about **web development  and frontend**
 
