@@ -7,7 +7,7 @@
 <br/>
  I enjoy the process of continuous learning and am enthusiastic about exploring new languages and frameworks that align with my priorities.</h3>
 
-- 🌱 currently focussed on **Python**
+- 🌱 currently focussed on **Node.js**
 
 - 💬 Ask me about **web development  and frontend**
 
